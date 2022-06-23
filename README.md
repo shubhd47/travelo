@@ -29,6 +29,10 @@ node server.js
 Backend will start running on the port 4000
 [http://localhost:4000]
 
+## Pre requisite 
+
+Mongodb must be installed on the system.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
