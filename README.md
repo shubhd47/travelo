@@ -4,6 +4,7 @@
 First, run the development server:
 
 ```bash
+npm i
 npm run dev
 # or
 yarn dev
@@ -20,11 +21,15 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Running Backend
 
-After cloning the repo route to backend folder 
-cd backend/
+After cloning the repo route to backend folder
 
 run command 
+```bash
+cd backend
+
 node server.js
+```
+
 
 Backend will start running on the port 4000
 [http://localhost:4000]
